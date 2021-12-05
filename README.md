@@ -1,4 +1,4 @@
-# Roll dice
+# Roll Dice
 
 - Click the button to roll the 3d dice cube!
 
