@@ -1,7 +1,7 @@
 /*!
-  @author Mohamed Muntasir
-  @link https://github.com/devmotheg
-  */
+ * @author Mohamed Muntasir
+ * @link https://github.com/devmotheg
+ */
 
 const DICE_TRIGGER_EL = document.querySelector(".dice__trigger"),
   DICE_FACES_EL = document.querySelector(".dice__faces"),
