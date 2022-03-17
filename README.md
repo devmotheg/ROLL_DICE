@@ -1,5 +1,7 @@
 # Roll Dice
 
+Challenge from Tenzin's list of projects (⌐■_■)
+
 ## Features
 
 - Click the button to roll the 3d dice cube!
